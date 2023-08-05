@@ -1,0 +1,17 @@
+body{
+     background: linear-gradient(to left, rgba(150, 13, 235, 0.37), rgb(32, 215, 239));
+    opacity:0.9 ;
+    /* backdrop-filter:blur(10px); */
+
+
+}
+
+
+h1{
+    color: antiquewhite;
+
+}
+h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color:blue;
+}
